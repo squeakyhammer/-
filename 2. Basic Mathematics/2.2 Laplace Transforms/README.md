@@ -10,6 +10,8 @@
 2) when t -> 0, for random number of B<1, t^B|f(t)| is finite 
 3) when t -> oo, for random number of B>0, e^(-Bt)|f(t)| is finite.
 
+
+
 <b>2. Characterlistic</b>
 
  - 선형성(Linearity)

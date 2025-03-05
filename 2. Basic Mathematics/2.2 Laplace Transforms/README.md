@@ -13,7 +13,8 @@
 <b>2. Characterlistic</b>
 
  - 선형성(Linearity)
-   ![image](https://github.com/user-attachments/assets/b2d4d0c2-477f-49a6-b97c-53750e20b5fd)
+
+![image](https://github.com/user-attachments/assets/896f112c-1cf0-4a71-8ce6-8a0a52896bbc)
 
    
 

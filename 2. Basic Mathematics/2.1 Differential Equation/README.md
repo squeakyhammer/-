@@ -5,7 +5,7 @@
 
 <b>2. Simple Function</b><br>
 
-<b>2.1 1st Diffrential Equation</b>
+<b>2.1. Diffrential Equation Simple Form </b>
 
 ![image](https://github.com/user-attachments/assets/89f3f573-0b75-4d3b-b294-49a3b5bbad6a)
 

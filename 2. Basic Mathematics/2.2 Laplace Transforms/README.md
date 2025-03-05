@@ -14,10 +14,10 @@
 
 <b>2. Characterlistic</b>
 
- - 선형성(Linearity)<br>
+ - 선형성(Linearity)<br><br>
    ![image](https://github.com/user-attachments/assets/896f112c-1cf0-4a71-8ce6-8a0a52896bbc)
-
- - 미분 (Differential)
+<br><br>
+ - 미분 (Differential)<br><br>
    ![image](https://github.com/user-attachments/assets/7e5ba50b-82d1-45dc-8e86-6c52ab6b5b6e)
 
 <br><br><br>

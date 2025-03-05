@@ -9,7 +9,7 @@
 1) 함수는 임의의 구간에서 연속적이다(Continuous in random section)
 2) when t -> 0, for random number of B<1, t^B|f(t)| is finite 
 3) when t -> oo, for random number of B>0, e^(-Bt)|f(t)| is finite.
-
+<br><br><br>
 
 
 <b>2. Characterlistic</b>

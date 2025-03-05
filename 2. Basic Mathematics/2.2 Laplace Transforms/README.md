@@ -6,9 +6,9 @@
 ![image](https://github.com/user-attachments/assets/23de9002-8d70-49c2-a5bb-53c1ff1c14bf)
 
 *<b>Notice</b>
-
-![image](https://github.com/user-attachments/assets/a9af3750-7d81-4f3c-8c42-319fb598f9a5)
-
+1) 함수는 임의의 구간에서 연속적이다(Continuous in random section)
+2) when t -> 0, for random number of B<1, t^B|f(t)| is finite 
+3) when t -> oo, for random number of B>0, e^(-Bt)|f(t)| is finite.
 
 <b>2. Characterlistic</b>
 

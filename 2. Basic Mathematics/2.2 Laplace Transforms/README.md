@@ -9,3 +9,12 @@
 
 ![image](https://github.com/user-attachments/assets/a9af3750-7d81-4f3c-8c42-319fb598f9a5)
 
+
+<b>2. Characterlistic</b>
+
+ - 선형성(Linearity)
+   ![image](https://github.com/user-attachments/assets/b2d4d0c2-477f-49a6-b97c-53750e20b5fd)
+
+   
+
+3. 

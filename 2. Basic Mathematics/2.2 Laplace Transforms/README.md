@@ -3,7 +3,7 @@
 시간영역에서의 함수를 주파수 도메인으로 옮기는 변환
 (Transfer function from time domain to frequency domain)
 
-![image](https://github.com/user-attachments/assets/bcafa29b-fb8d-4e3d-8971-c9e521c9cf0a)
+![image](https://github.com/user-attachments/assets/23de9002-8d70-49c2-a5bb-53c1ff1c14bf)
 
 *<b>Notice</b>
 

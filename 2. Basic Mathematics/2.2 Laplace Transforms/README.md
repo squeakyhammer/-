@@ -15,6 +15,7 @@
 <b>2. Characterlistic</b>
 
  - 선형성(Linearity)
+   1) Laplace( c1*f(t) +/- c2*g(t) ) = c1*F(S) +/- c2*G(S)
  
    ![image](https://github.com/user-attachments/assets/896f112c-1cf0-4a71-8ce6-8a0a52896bbc)
 

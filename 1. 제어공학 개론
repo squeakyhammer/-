@@ -11,5 +11,4 @@
   A. 종류 
    1) 폐회로제어시스템(피드백제어시스템) 
     - 플랜트 출력이 다시 입력신호로 들어가 제어에 사용되는 시스템
-      ![ControlLoopSystem](C:\Users\OWNER\OneDrive\학교\충남대 대학원\제어공학\Fig1_ControlLoopSystem)
     - 개회로제어시스템 : 플랜트 

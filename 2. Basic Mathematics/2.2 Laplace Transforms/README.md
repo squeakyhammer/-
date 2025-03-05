@@ -1,6 +1,6 @@
 <b> 1. Justification </b>
 
-![image](https://github.com/user-attachments/assets/f3e8b71d-afa7-40bc-96b4-08b8d8a99c8b)
+![image](https://github.com/user-attachments/assets/bcafa29b-fb8d-4e3d-8971-c9e521c9cf0a)
 
 *<b>Notice</b>
 

@@ -14,12 +14,12 @@
 
 <b>2. Characterlistic</b>
 
- - 선형성(Linearity)
-   1) L( c1*f(t) +- c2*g(t) ) = c1*F(s) +- c2*G(s)
-   2) L( f(t) / c1 ) = c1 * F(c1*s) 
- 
+ - 선형성(Linearity)<br>
    ![image](https://github.com/user-attachments/assets/896f112c-1cf0-4a71-8ce6-8a0a52896bbc)
 
-   
+ - 미분 (Differential)
+   ![image](https://github.com/user-attachments/assets/7e5ba50b-82d1-45dc-8e86-6c52ab6b5b6e)
+
+<br><br><br>
 
 3. 
